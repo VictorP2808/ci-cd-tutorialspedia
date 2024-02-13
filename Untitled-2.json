@@ -1,0 +1,48 @@
+[
+    {
+      "companyName": "ExpressJourneys",
+      "availableSeats": 35,
+      "departureDateTime": "2024-02-05T15:30:00",
+      "travelRoute": {
+        "destinationLocation": {
+          "locationCode": "SFO-US",
+          "locationDesc": "San Francisco, USA"
+        },
+        "originLocation": {
+          "locationCode": "LAX-US",
+          "locationDesc": "Los Angeles, USA"
+        }
+      }
+    },
+    {
+      "companyName": "GlobalCommute",
+      "availableSeats": 16,
+      "departureDateTime": "2024-02-06T09:00:00",
+      "travelRoute": {
+        "destinationLocation": {
+          "locationCode": "CDG-FR",
+          "locationDesc": "Charles de Gaulle, France"
+        },
+        "originLocation": {
+          "locationCode": "JFK-US",
+          "locationDesc": "John F. Kennedy, New York, USA"
+        }
+      }
+    },
+    {
+      "companyName": "InterCityFly",
+      "availableSeats": 50,
+      "departureDateTime": "2024-02-07T22:45:00",
+      "travelRoute": {
+        "destinationLocation": {
+          "locationCode": "HND-JP",
+          "locationDesc": "Haneda, Tokyo, Japan"
+        },
+        "originLocation": {
+          "locationCode": "LHR-UK",
+          "locationDesc": "Heathrow, London, United Kingdom"
+        }
+      }
+    }
+]
+
